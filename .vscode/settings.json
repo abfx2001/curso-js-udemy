@@ -1,4 +1,7 @@
 {
   "git.ignoreLimitWarning": true,
-  "cSpell.words": ["metodo"]
+  "cSpell.words": [
+    "Formulario",
+    "metodo"
+  ]
 }
